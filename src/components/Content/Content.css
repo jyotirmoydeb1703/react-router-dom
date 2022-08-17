@@ -1,0 +1,28 @@
+.galleryStyle {
+  display: flex;
+}
+
+.contactStyle {
+  outline: 2px solid;
+  padding: 25px;
+  ;
+}
+
+.childStyle{
+  position: absolute;
+  top: 40%;
+  width: 700px;
+  left: 30%;
+}
+.childBlog{
+  text-decoration: none;
+  padding: 20px;
+  background: blue;
+  color: white;
+  margin: 10px;
+}
+.notFound{
+    position: absolute;
+    top:30%;
+    font-size: medium;
+}

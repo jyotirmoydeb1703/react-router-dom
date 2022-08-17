@@ -1,0 +1,32 @@
+.headerStyle {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.75);
+  color: #f2f2f2;
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+.navbarStyle {
+  position: absolute;
+  top: 25%;
+  left: 30%;
+
+}
+
+.navbarStyleItem {
+  text-decoration: none;
+  padding: 20px;
+  background: rgba(0, 0, 255, 0.8);
+  color: #f2f2f2;
+  border: 1px solid;
+}
+
+.navbarStyleItem:hover{
+  background:orange;
+  color:yellow;
+}
